@@ -1,9 +1,9 @@
 # vue-vuex-example
-Example implementation Vue + Vuex store. 
+Example implementation Vue + Vuex store. Counter example.
 
 Feel free to use it however you want to :-)
 
-This repository is part of article posted on LinkedIN: [Vue + Vuex Store - Short Tutorial for Beginners]()
+This repository is part of article posted on LinkedIN: [Vue + Vuex Store - Short Tutorial for Beginners](https://www.linkedin.com/pulse/vue-vuex-store-short-tutorial-beginners-mac-lisowski/)
 
 ## Project setup
 ```
